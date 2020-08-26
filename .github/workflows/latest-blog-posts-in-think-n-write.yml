@@ -1,0 +1,18 @@
+name: Latest Blog Posts in Think & Write
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update:
+    name: Update the list of latest blog posts in the README.md
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@1
+        with:
+          feed_list: https://jasonhk.blog/feed/rss2/
+          comment_tag_name: FEED:THINK_&_WRITE
+        
+              

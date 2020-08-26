@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📕 Latest Blog Posts in [Think & Write][think-n-write]
+
+<!-- FEED:THINK_&_WRITE:START -->
+<!-- FEED:THINK_&_WRITE:END -->
+
+[think-n-write]: https://jasonhk.blog/
