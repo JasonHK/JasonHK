@@ -1,6 +1,7 @@
 name: Latest Blog Posts in Think & Write
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
 
