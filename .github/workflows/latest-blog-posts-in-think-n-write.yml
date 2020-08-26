@@ -6,8 +6,8 @@ on:
     - cron: "0 * * * *"
 
 jobs:
-  update:
-    name: Update the list of latest blog posts in the README.md
+  update_feed:
+    name: Update the list of latest blog posts in README.md
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
