@@ -15,5 +15,8 @@ jobs:
         with:
           feed_list: https://jasonhk.blog/feed/rss2/
           comment_tag_name: FEED:THINK_&_WRITE
+          commit_message: Updated with the latest blog posts in Think & Write
+          committer_username: think-n-write
+          committer_email: think-n-write@jasonhk.email
         
               
