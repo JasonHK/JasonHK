@@ -4,6 +4,7 @@ Hello, I'm Jason! Thanks for checking my profile page~ 👋🏻
 ### 📖 我個網誌最新嘅文章
 
 <!-- FEED:THINK_&_WRITE:START -->
+- [估唔到 C AllStar 會用 Minecraft 嚟搞虛擬演唱會](https://jasonhk.blog/2020/08/some-thoughts-on-make-it-happen-at-10/)
 - [納斯卡計劃伺服器 8 週年快樂！](https://jasonhk.blog/2020/08/project-nazca-happy-8th-anniversary/)
 - [隨想．隨寫，重新開始](https://jasonhk.blog/2020/08/a-restart-of-my-blog/)
 <!-- FEED:THINK_&_WRITE:END -->
